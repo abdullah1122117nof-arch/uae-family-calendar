@@ -1,0 +1,22 @@
+{
+  "id": "./noor-calendar-install-v2",
+  "name": "UAE Family Calendar",
+  "short_name": "NOOR",
+  "description": "A UAE-based family calendar and schedule planner.",
+  "lang": "en-AE",
+  "dir": "ltr",
+  "start_url": "./index.html?app=noor-calendar-v2",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#f8f9f7",
+  "theme_color": "#0b3d2e",
+  "categories": ["lifestyle", "productivity"],
+  "icons": [
+    {"src":"./noor-calendar-192-v2.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./noor-calendar-512-v2.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./noor-calendar-512-maskable-v2.png","sizes":"512x512","type":"image/png","purpose":"maskable"},
+    {"src":"./noor-calendar-v2.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
