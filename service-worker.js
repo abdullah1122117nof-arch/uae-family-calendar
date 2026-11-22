@@ -1,4 +1,4 @@
-const CACHE_NAME = "noor-uae-family-calendar-v22";
+const CACHE_NAME = "noor-uae-family-calendar-v23";
 const APP_FILES = ["./", "./index.html", "./manifest.webmanifest", "./noor-calendar-v2.svg", "./noor-calendar-192-v2.png", "./noor-calendar-512-v2.png", "./noor-calendar-512-maskable-v2.png", "./noor-calendar-180-v2.png"];
 
 self.addEventListener("install", (event) => {
